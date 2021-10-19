@@ -31,7 +31,7 @@ I did not experience any challenges per se, but I would imagine getting hte mont
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--
+
 First glance at the theater outcomes data shows that most KickStarter campaigns for theater productions are successful - in fact, the ratio of successful campaings to failed ones is almost 2:1 across the board.  From the table alone we can see that this trend holds (for the most part) across all months with the except on December - plays that start their campaigns then are just as likely to fail as they are to succeed.  Perhaps this has to do with the holiday season, and patrons are less likely to contribute after just spending money on all of their Christmas presents.
 
 The chart of theater outcomes by their lauch date tells a colorful story - successful campaigns are in green and failed ones are in red for ease of readablity.  KickStarter campagins for theater in the summer months (May - July) have the highest ratio of success to failure - indicating that the summer might be a good time to start a theater fundraising campaing.  
