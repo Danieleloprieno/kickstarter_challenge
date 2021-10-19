@@ -9,14 +9,20 @@ Crowdfunding campagins can be a vital resource for artists vying to launch their
 
 ### Analysis of Outcomes Based on Launch Date
 First, we look at campagin outcomes in relation to their launch date, to better understand hte impact of campagin timing on success.  This was accomplished by creating a PivotChart to filter data by time and campaign type.  Once filtered to only display theater campagins, a table was constructed to look at outcomes (successful, failed, or canceled) across months.  This tells us how campagins started at different points of the year fared relative to others.
+
 ![Table of Theater Outcomes by Launch Date](/resources/Theater_Outcomes_by_Launch_Date_Table.png)
+
 Then, a chart was created to illustrate the same data over time.  A line chart was selected as it is the best way to chart trends that occur over a period of time.
+
 ![Chart of Theater Outcomes by Launch Date](/resources/Theater_Outcomes_vs_Lanch.png)
 
 ### Analysis of Outcomes Based on Goals
 Next, an analysis of campaign outcomes relative to fundraising goal was conducted.  For this analysis, campaing category was further filtered from theater to plays specifically.  First, fundraising goals were condensed into smaller categories, ranging from less than $1000 to over $50,000.  A table was created to illustrate the frequency of each campaign outcome based on goal amount.
+
 ![Table of Play Outcomes Based on Goal](/resources/Outcomes_vs_Goal_Table.png)
+
 Lastly, percentages of campaign outcomes in each goal category were calculated.  These percentages were charted using a line graph to better illustrate patterns as campaign goal amounts increase.
+
 ![Chart of Play Outcomes Based on Goal](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
