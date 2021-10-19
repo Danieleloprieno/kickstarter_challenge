@@ -14,7 +14,7 @@ First, we look at campagin outcomes in relation to their launch date, to better 
 
 Then, a chart was created to illustrate the same data over time.  A line chart was selected as it is the best way to chart trends that occur over a period of time.
 
-![Chart of Theater Outcomes by Launch Date](/resources/Theater_Outcomes_vs_Lanch.png)
+![Chart of Theater Outcomes by Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Next, an analysis of campaign outcomes relative to fundraising goal was conducted.  For this analysis, campaing category was further filtered from theater to plays specifically.  First, fundraising goals were condensed into smaller categories, ranging from less than $1000 to over $50,000.  A table was created to illustrate the frequency of each campaign outcome based on goal amount.
