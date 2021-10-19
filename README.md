@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Crowdfunding campagins can be a vital resource for artists vying to launch their dream projects.  Planning a successful KickStarter campgain relies on many factors, with timing and goal setting being two important factors to consider.  Utilzing an international KickStarter dataset  with data on several thousand crowdfunding campaings, this analysis aims to understand campaign outcomes in relation to their launch dates and funding goals in order to better understand these two factors.   
+Crowdfunding campagins can be a vital resource for artists vying to launch their dream projects.  Planning a successful KickStarter campgain relies on many factors, with timing and goal setting being two important factors to consider.  Utilzing an international KickStarter Excel dataset with data on several thousand crowdfunding campaings, this analysis aims to understand campaign outcomes in relation to their launch dates and funding goals in order to better understand these two factors.   
 
 ## Analysis and Challenges
 
